@@ -47,7 +47,6 @@ The project is based on a fictional business scenario in which a competing space
 - All four classification models achieved the same test accuracy of approximately 83.3%.
 - Since the models tied on test accuracy, cross-validation accuracy was used as an additional comparison metric.
 - The Decision Tree model achieved the highest cross-validation accuracy at approximately 87.7%.
-- Logistic Regression was listed by the notebook as the best model based on test accuracy because it appeared first among the tied test-accuracy results.
 
 ## Tools and Libraries
 
