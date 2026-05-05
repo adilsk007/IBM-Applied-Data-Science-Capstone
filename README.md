@@ -56,4 +56,4 @@ Python, Pandas, NumPy, SQL, Matplotlib, Seaborn, Folium, Plotly Dash, Scikit-lea
 
 ## Author
 
-Margarita Chekhova
+Muhammad Adil Salam
