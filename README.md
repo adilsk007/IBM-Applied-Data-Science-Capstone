@@ -32,7 +32,7 @@ The project is based on a fictional business scenario in which a competing space
 ## Repository Structure
 
 - `notebooks/` - Solved Jupyter notebooks for each capstone lab
-- `dashboard/` - Plotly Dash dashboard notebook and Python app
+- `dashboard/` - Plotly Dash dashboard notebook 
 - `images/` - Dashboard screenshots and visual assets
 - `presentation/` - Final PowerPoint and PDF presentation
 - `data/` - Generated CSV files used during the capstone labs
