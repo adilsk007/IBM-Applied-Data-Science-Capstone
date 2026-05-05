@@ -1,3 +1,4 @@
+```markdown
 # IBM Applied Data Science Capstone: SpaceX Falcon 9 Landing Prediction
 
 ## Project Overview
@@ -31,9 +32,49 @@ The project is based on a fictional business scenario in which a competing space
 
 ## Repository Structure
 
-```text
-notebooks/      Solved Jupyter notebooks for each capstone lab
-dashboard/      Plotly Dash dashboard notebook and Python app
-images/         Dashboard screenshots and visual assets
-presentation/   Final PowerPoint and PDF presentation
-data/           Generated CSV files used during the capstone labs
+- `notebooks/` - Solved Jupyter notebooks for each capstone lab
+- `dashboard/` - Plotly Dash dashboard notebook and Python app
+- `images/` - Dashboard screenshots and visual assets
+- `presentation/` - Final PowerPoint and PDF presentation
+- `data/` - Generated CSV files used during the capstone labs
+
+## Main Results
+
+- KSC LC-39A had the largest number of successful launches in the dashboard analysis.
+- KSC LC-39A also had the highest launch success rate.
+- Payloads around 3,000-4,000 kg showed the highest success-rate band in the dashboard dataset.
+- Booster category B5 showed the highest observed success rate.
+- Classification models compared included Logistic Regression, Support Vector Machine, Decision Tree, and K-Nearest Neighbors.
+- All four classification models achieved the same test accuracy of approximately 83.3%.
+- Since the models tied on test accuracy, cross-validation accuracy was used as an additional comparison metric.
+- The Decision Tree model achieved the highest cross-validation accuracy at approximately 87.7%.
+- Logistic Regression was listed by the notebook as the best model based on test accuracy because it appeared first among the tied test-accuracy results.
+
+## Tools and Libraries
+
+- Python
+- Pandas
+- NumPy
+- SQLite / SQL
+- Matplotlib
+- Seaborn
+- Folium
+- Plotly Dash
+- Scikit-learn
+- Jupyter Notebook
+- GitHub
+
+## Final Deliverables
+
+- Final presentation PDF
+- Final presentation PowerPoint
+- Solved Jupyter notebooks
+- Generated CSV datasets
+- Dash dashboard screenshots
+- Dash application file/notebook
+- Folium map output
+- GitHub repository URL for Coursera submission
+
+## Author
+
+Muhammad Adil Salam
